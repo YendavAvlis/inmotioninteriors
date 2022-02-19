@@ -176,48 +176,7 @@ console.log(titleName);
 //Copyright
 let copyrightFooter = document.querySelector("#copyright");
 copyrightFooter.innerHTML = `&copy; Copyright In Motion Interiors ${currentYear.getFullYear()}. All Rights Reserved`;
-//Owl Course
-$(".owl-carousel").owlCarousel({
-  loop: true,
-  margin: 10,
-  nav: true,
-  responsive: {
-    0: {
-      items: 1,
-    },
-    600: {
-      items: 3,
-    },
-    1000: {
-      items: 5,
-    },
-  },
-});
 
-//Animsation
-
-$(document).ready(function () {
-  $(".animsition").animsition({
-    inClass: "fade-in",
-    outClass: "fade-out",
-    inDuration: 1500,
-    outDuration: 800,
-    linkElement: ".animsition-link",
-    // e.g. linkElement   :   'a:not([target="_blank"]):not([href^=#])'
-    touchSupport: true,
-    loading: true,
-    loadingParentElement: "body", //animsition wrapper element
-    loadingClass: "animsition-loading",
-    unSupportCss: [
-      "animation-duration",
-      "-webkit-animation-duration",
-      "-o-animation-duration",
-    ],
-    overlay: false,
-    overlayClass: "animsition-overlay-slide",
-    overlayParentElement: "body",
-  });
-});
 yearExperience.innerHTML = `<span>${
   currentYear.getFullYear() - 2013
 }</span> Years Creating Beautiful Space`;

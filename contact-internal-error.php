@@ -16,7 +16,7 @@ include('assets/includes/header.php')
 
 <!--====== CONTACT PART START ======-->
 
-<section id="contact" class="contact_area bg_cover pt-120 pb-130" style="background-image: url(assets/images/contact_bg.jpg)">
+<section id="contact" class="contact_area bg_cover pt-120 pb-130" style="background-image: url(assets/images/contact_bg.webp)">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-12">

@@ -125,7 +125,13 @@
                 <ul class="meta">
                     <li><a href="#0"><i class="lni lni-link"></i></a></li>
                 </ul>
-                <h5 class="portfolio_title">Project Mainstream</h5>
+                <h5 class="portfolio_title"><a class="white" href="#">Project Mainstream</a></h5>
+            </div> <!-- Single portfolio -->
+            <div class="portfolio_content_1">
+                <ul class="meta">
+                    <li><a href="#0"><i class="lni lni-link"></i></a></li>
+                </ul>
+                <h5 class="portfolio_title"><a class="white" href="#">Project Mainstream</a></h5>
             </div> <!-- Single portfolio -->
         </div> <!-- portfolio wrapper -->
         <div class="single_portfolio wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.3s">
@@ -134,7 +140,13 @@
                 <ul class="meta">
                     <li><a href="#0"><i class="lni lni-link"></i></a></li>
                 </ul>
-                <h5 class="portfolio_title">Project North East</h5>
+                <h5 class="portfolio_title"><a class="white" href="#">Project North East</a></h5>
+            </div> <!-- Single portfolio -->
+            <div class="portfolio_content_1">
+                <ul class="meta">
+                    <li><a href="#0"><i class="lni lni-link"></i></a></li>
+                </ul>
+                <h5 class="portfolio_title"><a class="white" href="#">Project North East</a></h5>
             </div> <!-- Single portfolio -->
         </div> <!-- portfolio wrapper -->
         <div class="single_portfolio wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s">
@@ -143,7 +155,13 @@
                 <ul class="meta">
                     <li><a href="#0"><i class="lni lni-link"></i></a></li>
                 </ul>
-                <h5 class="portfolio_title">Project 3D Rendering</h5>
+                <h5 class="portfolio_title"><a class="white" href="#">Project 3D Rendering</a></h5>
+            </div> <!-- Single portfolio -->
+            <div class="portfolio_content_1">
+                <ul class="meta">
+                    <li><a href="#0"><i class="lni lni-link"></i></a></li>
+                </ul>
+                <h5 class="portfolio_title"><a class="white" href="#">Project 3D Rendering</a></h5>
             </div> <!-- Single portfolio -->
         </div> <!-- portfolio wrapper -->
     </div> <!-- row -->

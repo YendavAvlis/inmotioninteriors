@@ -3,37 +3,34 @@
 
 <head>
     <meta charset="utf-8">
-    
+
     <!--====== Title ======-->
-    <title><?php echo TITLE;?></title>
-    
+    <title><?php echo TITLE; ?></title>
+
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!--====== Favicon Icon ======-->
     <link rel="shortcut icon" href="assets/images/favicon.png" type="image/png">
-        
+
     <!--====== Animate CSS ======-->
     <link rel="stylesheet" href="assets/css/animate.css">
-        
+
     <!--====== Glide CSS ======-->
     <link rel="stylesheet" href="assets/css/tiny-slider.css">
-        
+
     <!--====== Line Icons CSS ======-->
     <link rel="stylesheet" href="assets/css/LineIcons.2.0.css">
-        
+
     <!--====== Bootstrap CSS ======-->
     <link rel="stylesheet" href="assets/css/bootstrap-5.0.0-beta1.min.css">
-    
+
     <!--====== Default CSS ======-->
     <link rel="stylesheet" href="assets/css/default.css">
-    
+
     <!--====== Style CSS ======-->
     <link rel="stylesheet" href="assets/css/style.css">
 
-    <!--Animsition-->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animsition/4.0.2/css/animsition.min.css" integrity="sha512-SagM1PHxt5mWDyWARVY6UOdhM5A8J+R1UqIWcGfiwOd+be7uHQagB+JQOmfVZF8jjJQqbyuWzw/KXfb4yqjBkQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    
 </head>
 
 <body>
@@ -69,7 +66,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                      <?php
+                        <?php
                         include('assets/includes/nav.php')
                         ?>
                     </div>
