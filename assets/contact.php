@@ -41,8 +41,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     } else {
         // Set a 500 (internal server error) response code.
         http_response_code(500);
-        header('www.facebook.com');
+        header('Location: //www.google.com');
+        // or die();
+
         echo "Oops! Something went wrong and we couldn't send your message.";
+        exit();
     }
 } else {
     // Not a POST request, set a 403 (forbidden) response code.
