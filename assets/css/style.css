@@ -1631,3 +1631,7 @@ p.form-message.error.form-message.error {
 .project_title h2 {
   color: #f5f8f2;
 }
+
+.my-slider img {
+  width: 33.33%;
+}

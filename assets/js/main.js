@@ -99,16 +99,17 @@
 
   //===== glide tiny for testimonial
 
-  // tns({
-  //   container: ".testimonial_active",
-  //   items: 1,
-  //   slideBy: "page",
-  //   autoplay: false,
-  //   mouseDrag: true,
-  //   gutter: 0,
-  //   nav: true,
-  //   controls: false,
-  // });
+  tns({
+    autoWidth: true,
+    items: 3.3,
+    slideBy: 2.6,
+    gutter: 10,
+    mouseDrag: true,
+    lazyload: true,
+    container: ".my-slider",
+    swipeAngle: false,
+    speed: 400,
+  });
 
   //WOW Scroll Spy
   var wow = new WOW({
