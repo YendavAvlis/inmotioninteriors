@@ -69,7 +69,7 @@ include('assets/includes/header.php')
             </div> <!-- Single portfolio -->
         </div> <!-- portfolio wrapper -->
         <div class="single_portfolio wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s">
-            <img src="./assets/images/midstream/image2.webp" alt="portfolio">
+            <img src="./assets/images/renovation-2.webp" alt="portfolio">
             <div class="portfolio_content">
                 <ul class="meta">
                     <li><a href="#0"><i class="lni lni-link"></i></a></li>
