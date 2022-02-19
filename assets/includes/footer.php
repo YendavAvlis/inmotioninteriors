@@ -3,21 +3,31 @@
 <footer id="footer" class="footer_area">
     <div class="container pt-40">
         <div class="row">
-            <div class="col-md-6 pb-20">
+            <div class="col-md-4 pb-20">
                 <h4 class="white pb-15">Quick Links</h4>
                 <ul>
-                    <li><a class="a-link" href="">About Us</a></li>
-                    <li><a class="a-link" href="">Projects</a></li>
-                    <li><a class="a-link" href="">Talk To Us</a></li>
+                    <li class="pb-10"><a class="a-link" href="">About Us</a></li>
+                    <li class="pb-10"><a class="a-link" href="">Projects</a></li>
+                    <li class="pb-10"><a class="a-link" href="">Talk To Us</a></li>
                 </ul>
             </div>
-            <div class="col-md-6 pb-20">
+            <div class="col-md-4 pb-20">
+                <h4 class="white pb-15">Get In Touch</h4>
+                <div class="footer_wrapper text-left d-lg-flex align-items-left justify-content-left">
+                    <ul>
+                        <li><span class="white pb-10"><i class="lni lni-phone"></i> &nbsp;<a class="a-link" href="https://wa.link/mxq1ew">+27 72 840 5787</a></span></li>
+                        <li><span class="white pb-10"><i class="lni lni-bubble"></i> &nbsp;<a class="a-link" href="mailto:ange@inmotioninteriors.co.za">ange@inmotioninteriors.co.za</a></span></li>
+                    </ul>
+
+
+                </div>
+            </div> <!-- footer wrapper -->
+            <div class="col-md-4 pb-20">
                 <h4 class="white pb-15">Social Links</h4>
                 <div class="footer_wrapper text-left d-lg-flex align-items-left justify-content-left">
                     <div class="footer_social pt-15">
                         <ul>
-                            <li><a href="https://www.instagram.com/inmotioninteriors/"><i
-                                        class="lni lni-instagram-original"></i></a></li>
+                            <li><a href="https://www.instagram.com/inmotioninteriors/"><i class="lni lni-instagram-original"></i></a></li>
                         </ul>
                     </div> <!-- footer social -->
                 </div>
@@ -43,9 +53,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
 
 <!--Animstion--->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/animsition/4.0.2/js/animsition.min.js"
-    integrity="sha512-pYd2QwnzV9JgtoARJf1Ui1q5+p1WHpeAz/M0sUJNprhDviO4zRo12GLlk4/sKBRUCtMHEmjgqo5zcrn8pkdhmQ=="
-    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/animsition/4.0.2/js/animsition.min.js" integrity="sha512-pYd2QwnzV9JgtoARJf1Ui1q5+p1WHpeAz/M0sUJNprhDviO4zRo12GLlk4/sKBRUCtMHEmjgqo5zcrn8pkdhmQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
 
 <!--====== Bootstrap js ======-->

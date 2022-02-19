@@ -43,7 +43,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     } else {
         // Set a 500 (internal server error) response code.
         http_response_code(500);
-        header('Location: ../contact-sent.php');
+        header('Location: ../contact-internal-error.php');
         // or die();
 
         echo "Oops! Something went wrong and we couldn't send your message.";
