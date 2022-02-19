@@ -21,8 +21,7 @@ include('assets/includes/header.php')
         <div class="row justify-content-center">
             <div class="col-lg-12">
                 <div class="section_title section_title_2 text-center pb-25">
-                    <h1 class="white wow fadeInUp pb-30" data-wow-duration="1.3s" data-wow-delay="0.2s">Your message has been sent successfully</h1>
-                    <h3 class="white wow fadeInUp pb-60" data-wow-duration="1.3s" data-wow-delay="0.2s">We will get back to you soon...</h3>
+                    <h1 class="white wow fadeInUp pb-60" data-wow-duration="1.3s" data-wow-delay="0.2s">Something Went Wrong!!!</h1>
                     <a class="main-btn" href="./index.php">Go Back Home</a>
                 </div> <!-- section title -->
             </div>
