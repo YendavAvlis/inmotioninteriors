@@ -120,48 +120,48 @@
     </div> <!-- container -->
     <div class="portfolio_wrapper centered-portfolio d-flex flex-wrap">
         <div class="single_portfolio wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.2s">
-            <img src="assets/images/featured-projects/midstream-1.webp" alt="portfolio">
+            <img loading="lazy" src="assets/images/featured-projects/midstream-1.webp" alt="portfolio">
             <div class="portfolio_content">
                 <ul class="meta">
-                    <li><a href="#0"><i class="lni lni-link"></i></a></li>
+                    <li><a href="midstream.php"><i class="lni lni-link"></i></a></li>
                 </ul>
-                <h5 class="portfolio_title"><a class="white" href="#">Project Midstream</a></h5>
+                <h5 class="portfolio_title"><a class="white" href="midstream.php">Project Midstream</a></h5>
             </div> <!-- Single portfolio -->
             <div class="portfolio_content_1">
                 <ul class="meta">
-                    <li><a href="#0"><i class="lni lni-link"></i></a></li>
+                    <li><a href="midstream.php"><i class="lni lni-link"></i></a></li>
                 </ul>
-                <h5 class="portfolio_title"><a class="white" href="#">Project Midstream</a></h5>
+                <h5 class="portfolio_title"><a class="white" href="midstream.php">Project Midstream</a></h5>
             </div> <!-- Single portfolio -->
         </div> <!-- portfolio wrapper -->
         <div class="single_portfolio wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.3s">
-            <img src="assets/images/featured-projects/north-east-1.webp" alt="portfolio">
+            <img loading="lazy" src="assets/images/featured-projects/north-east-1.webp" alt="portfolio">
             <div class="portfolio_content">
                 <ul class="meta">
-                    <li><a href="#0"><i class="lni lni-link"></i></a></li>
+                    <li><a href="north-east.php"><i class="lni lni-link"></i></a></li>
                 </ul>
-                <h5 class="portfolio_title"><a class="white" href="#">Project North East</a></h5>
+                <h5 class="portfolio_title"><a class="white" href="north-east.php">Project North East</a></h5>
             </div> <!-- Single portfolio -->
             <div class="portfolio_content_1">
                 <ul class="meta">
-                    <li><a href="#0"><i class="lni lni-link"></i></a></li>
+                    <li><a href="north-east.php"><i class="lni lni-link"></i></a></li>
                 </ul>
-                <h5 class="portfolio_title"><a class="white" href="#">Project North East</a></h5>
+                <h5 class="portfolio_title"><a class="white" href="north-east.php">Project North East</a></h5>
             </div> <!-- Single portfolio -->
         </div> <!-- portfolio wrapper -->
         <div class="single_portfolio wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s">
-            <img src="assets/images/featured-projects/3d-rendering.webp" alt="portfolio">
+            <img loading="lazy" src="assets/images/featured-projects/3d-rendering.webp" alt="portfolio">
             <div class="portfolio_content">
                 <ul class="meta">
-                    <li><a href="#0"><i class="lni lni-link"></i></a></li>
+                    <li><a href="3d-rendering.php"><i class="lni lni-link"></i></a></li>
                 </ul>
-                <h5 class="portfolio_title"><a class="white" href="#">Project 3D Rendering</a></h5>
+                <h5 class="portfolio_title"><a class="white" href="3d-rendering.php">Project 3D Rendering</a></h5>
             </div> <!-- Single portfolio -->
             <div class="portfolio_content_1">
                 <ul class="meta">
-                    <li><a href="#0"><i class="lni lni-link"></i></a></li>
+                    <li><a href="3d-rendering.php"><i class="lni lni-link"></i></a></li>
                 </ul>
-                <h5 class="portfolio_title"><a class="white" href="#">Project 3D Rendering</a></h5>
+                <h5 class="portfolio_title"><a class="white" href="3d-rendering.php">Project 3D Rendering</a></h5>
             </div> <!-- Single portfolio -->
         </div> <!-- portfolio wrapper -->
     </div> <!-- row -->
