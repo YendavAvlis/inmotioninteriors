@@ -100,13 +100,10 @@
   //===== glide tiny for testimonial
 
   tns({
-    autoWidth: true,
-    items: 3.3,
-    slideBy: 2.6,
-    gutter: 10,
-    mouseDrag: true,
-    lazyload: true,
     container: ".my-slider",
+    items: 2,
+    center: true,
+    loop: false,
     swipeAngle: false,
     speed: 400,
   });

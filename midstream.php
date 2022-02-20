@@ -13,19 +13,14 @@ include('assets/includes/header.php')
 
 <section id="portfolio" class="portfolio_area pt-80 pb-80">
     <div class="container">
-        <div class="row justify-content-left">
-            <div class="col-lg-6">
-                <div class="section_title text-left">
-                    <h4 class="title wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.2s">Our Projects</h4>
-                    <p class="wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s">...</p>
-                </div> <!-- section title -->
+        <div class="row justify-content-center align-items-center">
+            <div class="my-slider">
+                <div><img src="assets/images/project-north-east-1.webp" alt=""></div>
+                <div><img src="assets/images/project-north-east-2.webp" alt=""></div>
+                <div><img src="assets/images/project-north-east-3.webp" alt=""></div>
+                <div><img src="assets/images/project-north-east-4.webp" alt=""></div>
             </div>
-        </div> <!-- row -->
-    </div> <!-- container -->
-    <div class="my-slider">
-        <div><img src="assets/images/project-north-east-1.webp" alt=""></div>
-        <div><img src="assets/images/project-north-east-2.webp" alt=""></div>
-        <div><img src="assets/images/project-north-east-3.webp" alt=""></div>
+        </div>
     </div>
 
 </section>
