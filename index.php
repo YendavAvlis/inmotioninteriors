@@ -92,7 +92,7 @@
         </div> <!-- container -->
 
         <div class="about_image bg_cover wow fadeInLeft" data-wow-duration="1.3s" data-wow-delay="0.2s"
-            style="background-image: url(assets/images/about.jpg)">
+            style="background-image: url(assets/images/about.webp)">
             <div class="image_content">
                 <h4 id="year-experience" class="experience">...</h4>
             </div>
