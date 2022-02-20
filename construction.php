@@ -6,7 +6,8 @@ include('assets/includes/header.php')
 <!--====== HEADER PART ENDS ======-->
 <section class=" pt-160 pb-40 bg_cover" style="background-image: url(assets/images/gallery.webp)">
     <div class="container">
-        <h1 class="white wow fadeInLeft hero__text" data-wow-duration="1.3s" data-wow-delay="0.2s">Construction Site</h1>
+        <h1 class="white wow fadeInLeft hero__text" data-wow-duration="1.3s" data-wow-delay="0.2s">Construction Site
+        </h1>
     </div>
 </section>
 <!--====== FEATURES PART START ======-->
@@ -26,15 +27,20 @@ include('assets/includes/header.php')
         </div>
     </div>
     <div class="container">
-        <div class="row justify-content-left align-items-left">
+        <div class="row justify-content-center align-items-center">
             <div class="col-lg-6">
-                <div class="section_title text-left">
+                <div class="section_title text-center">
                     <h4 class="title wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.2s">Partners</h4>
-                    <p class="wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s">Our construction site works along with:</p>
+                    <p class="wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s">Our construction site works
+                        together with:</p>
                 </div> <!-- section title -->
             </div>
         </div>
+        <div class="col-lg-12 row jutify-content-center align-items-center pt-40">
+            <img style="max-width:75%; margin:0 auto;" src="assets/images/bespoke.webp" alt="">
+        </div>
     </div>
+
 
 </section>
 
