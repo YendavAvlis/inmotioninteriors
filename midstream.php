@@ -15,10 +15,14 @@ include('assets/includes/header.php')
     <div class="container">
         <div class="row justify-content-center align-items-center">
             <div class="my-slider">
-                <div><img src="assets/images/project-north-east-1.webp" alt=""></div>
-                <div><img src="assets/images/project-north-east-2.webp" alt=""></div>
-                <div><img src="assets/images/project-north-east-3.webp" alt=""></div>
-                <div><img src="assets/images/project-north-east-4.webp" alt=""></div>
+                <div><img src="assets/images/midstream-1.webp" alt=""></div>
+                <div><img src="assets/images/midstream-2.webp" alt=""></div>
+                <div><img src="assets/images/midstream-3.webp" alt=""></div>
+                <div><img src="assets/images/midstream-4.webp" alt=""></div>
+                <div><img src="assets/images/midstream-5.webp" alt=""></div>
+                <div><img src="assets/images/midstream-6.webp" alt=""></div>
+                <div><img src="assets/images/midstream-7.webp" alt=""></div>
+                <div><img src="assets/images/midstream-8.webp" alt=""></div>
             </div>
         </div>
     </div>

@@ -166,7 +166,7 @@
         </div> <!-- portfolio wrapper -->
     </div> <!-- row -->
 </section>
-
+<div class="my-slider"></div>
 <!--====== PORTFOLIO PART ENDS ======-->
 
 

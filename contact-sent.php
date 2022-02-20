@@ -33,6 +33,7 @@ include('assets/includes/header.php')
 </section>
 
 <!--====== CONTACT PART ENDS ======-->
+<div class="my-slider"></div>
 
 <?php
 include('assets/includes/footer.php')

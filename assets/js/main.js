@@ -98,12 +98,12 @@
   );
 
   //===== glide tiny for testimonial
-
   tns({
     container: ".my-slider",
-    items: 2,
-    center: true,
-    loop: false,
+    items: 3,
+    edgePadding: 40,
+    lazyload: true,
+    gutter: 10,
     swipeAngle: false,
     speed: 400,
   });
