@@ -19,6 +19,7 @@
     <!--====== Glide CSS ======-->
     <link rel="stylesheet" href="assets/css/tiny-slider.css">
 
+
     <!--====== Line Icons CSS ======-->
     <link rel="stylesheet" href="assets/css/LineIcons.2.0.css">
 
