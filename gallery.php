@@ -264,18 +264,18 @@ include('assets/includes/header.php')
             </div> <!-- Single portfolio -->
         </div> <!-- portfolio wrapper -->
         <div class="single_portfolio wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s">
-            <img loading="lazy" src="assets/images/featured-projects/moodboard.webp" alt="portfolio">
+            <img loading="lazy" src="assets/images/turquoise-1.webp" alt="portfolio">
             <div class="portfolio_content">
                 <ul class="meta">
-                    <li><a href="moodboard.php"><i class="lni lni-link"></i></a></li>
+                    <li><a href="house-turquoise.php"><i class="lni lni-link"></i></a></li>
                 </ul>
-                <h5 class="portfolio_title"><a class="white" href="moodboard.php">Moodboards</a></h5>
+                <h5 class="portfolio_title"><a class="white" href="house-turquoise.php">Project House Turquoise</a></h5>
             </div> <!-- Single portfolio -->
             <div class="portfolio_content_1">
                 <ul class="meta">
-                    <li><a href="moodboard.php"><i class="lni lni-link"></i></a></li>
+                    <li><a href="house-turquoise.php"><i class="lni lni-link"></i></a></li>
                 </ul>
-                <h5 class="portfolio_title"><a class="white" href="moodboard.php">Moodboards</a></h5>
+                <h5 class="portfolio_title"><a class="white" href="house-turquoise.php">Project House Turquoise</a></h5>
             </div> <!-- Single portfolio -->
         </div> <!-- portfolio wrapper -->
         <div class="single_portfolio wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s">

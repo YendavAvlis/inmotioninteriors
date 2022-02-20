@@ -15,14 +15,15 @@ include('assets/includes/header.php')
     <div class="container">
         <div class="row justify-content-center align-items-center">
             <div class="my-slider">
-                <div><img src="assets/images/project-north-east-1.webp" alt=""></div>
-                <div><img src="assets/images/project-north-east-2.webp" alt=""></div>
-                <div><img src="assets/images/project-north-east-3.webp" alt=""></div>
-                <div><img src="assets/images/project-north-east-4.webp" alt=""></div>
-                <div><img src="assets/images/project-north-east-5.webp" alt=""></div>
-                <div><img src="assets/images/project-north-east-6.webp" alt=""></div>
-                <div><img src="assets/images/project-north-east-7.webp" alt=""></div>
-                <div><img src="assets/images/project-north-east-8.webp" alt=""></div>
+                <div><img src="assets/images/cherry-place-1.webp" alt=""></div>
+                <div><img src="assets/images/cherry-place-2.webp" alt=""></div>
+                <div><img src="assets/images/cherry-place-3.webp" alt=""></div>
+                <div><img src="assets/images/cherry-place-4.webp" alt=""></div>
+                <div><img src="assets/images/cherry-place-5.webp" alt=""></div>
+                <div><img src="assets/images/cherry-place-6.webp" alt=""></div>
+                <div><img src="assets/images/cherry-place-7.webp" alt=""></div>
+                <div><img src="assets/images/cherry-place-8.webp" alt=""></div>
+                <div><img src="assets/images/cherry-place-9.webp" alt=""></div>
             </div>
         </div>
     </div>

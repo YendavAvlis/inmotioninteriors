@@ -15,14 +15,19 @@ include('assets/includes/header.php')
     <div class="container">
         <div class="row justify-content-center align-items-center">
             <div class="my-slider">
-                <div><img src="assets/images/midstream-1.webp" alt=""></div>
-                <div><img src="assets/images/midstream-2.webp" alt=""></div>
-                <div><img src="assets/images/midstream-3.webp" alt=""></div>
-                <div><img src="assets/images/midstream-4.webp" alt=""></div>
-                <div><img src="assets/images/midstream-5.webp" alt=""></div>
-                <div><img src="assets/images/midstream-6.webp" alt=""></div>
-                <div><img src="assets/images/midstream-7.webp" alt=""></div>
-                <div><img src="assets/images/midstream-8.webp" alt=""></div>
+                <div><img src="assets/images/mood-1.webp" alt=""></div>
+                <div><img src="assets/images/mood-2.webp" alt=""></div>
+                <div><img src="assets/images/mood-3.webp" alt=""></div>
+                <div><img src="assets/images/mood-4.webp" alt=""></div>
+                <div><img src="assets/images/mood-5.webp" alt=""></div>
+                <div><img src="assets/images/mood-6.webp" alt=""></div>
+                <div><img src="assets/images/mood-7.webp" alt=""></div>
+                <div><img src="assets/images/mood-8.webp" alt=""></div>
+                <div><img src="assets/images/mood-9.webp" alt=""></div>
+                <div><img src="assets/images/mood-10.webp" alt=""></div>
+                <div><img src="assets/images/mood-11.webp" alt=""></div>
+                <div><img src="assets/images/mood-12.webp" alt=""></div>
+                <div><img src="assets/images/mood-13.webp" alt=""></div>
             </div>
         </div>
     </div>
