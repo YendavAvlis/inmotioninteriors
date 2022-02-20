@@ -114,138 +114,183 @@ include('assets/includes/header.php')
             </div> <!-- Single portfolio -->
         </div> <!-- portfolio wrapper -->
         <div class="single_portfolio wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s">
-            <img loading="lazy" src="assets/images/featured-projects/3d-rendering.webp" alt="portfolio">
+            <img loading="lazy" src="assets/images/featured-projects/cherry.webp" alt="portfolio">
             <div class="portfolio_content">
                 <ul class="meta">
-                    <li><a href="3d-rendering.php"><i class="lni lni-link"></i></a></li>
+                    <li><a href="cherry-place.php"><i class="lni lni-link"></i></a></li>
                 </ul>
-                <h5 class="portfolio_title"><a class="white" href="3d-rendering.php">Project 3D Rendering</a></h5>
+                <h5 class="portfolio_title"><a class="white" href="cherry-place.php">Project Cherry Place</a></h5>
             </div> <!-- Single portfolio -->
             <div class="portfolio_content_1">
                 <ul class="meta">
-                    <li><a href="3d-rendering.php"><i class="lni lni-link"></i></a></li>
+                    <li><a href="cherry-place.php"><i class="lni lni-link"></i></a></li>
                 </ul>
-                <h5 class="portfolio_title"><a class="white" href="3d-rendering.php">Project 3D Rendering</a></h5>
+                <h5 class="portfolio_title"><a class="white" href="cherry-place.php">Project Cherry Place</a></h5>
             </div> <!-- Single portfolio -->
         </div> <!-- portfolio wrapper -->
         <div class="single_portfolio wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s">
-            <img loading="lazy" src="assets/images/featured-projects/3d-rendering.webp" alt="portfolio">
+            <img loading="lazy" src="assets/images/featured-projects/egoli.webp" alt="portfolio">
             <div class="portfolio_content">
                 <ul class="meta">
-                    <li><a href="3d-rendering.php"><i class="lni lni-link"></i></a></li>
+                    <li><a href="egoli.php"><i class="lni lni-link"></i></a></li>
                 </ul>
-                <h5 class="portfolio_title"><a class="white" href="3d-rendering.php">Project 3D Rendering</a></h5>
+                <h5 class="portfolio_title"><a class="white" href="egoli.php">Project Egoli</a></h5>
             </div> <!-- Single portfolio -->
             <div class="portfolio_content_1">
                 <ul class="meta">
-                    <li><a href="3d-rendering.php"><i class="lni lni-link"></i></a></li>
+                    <li><a href="egoli.php"><i class="lni lni-link"></i></a></li>
                 </ul>
-                <h5 class="portfolio_title"><a class="white" href="3d-rendering.php">Project 3D Rendering</a></h5>
+                <h5 class="portfolio_title"><a class="white" href="egoli.php">Project Egoli</a></h5>
             </div> <!-- Single portfolio -->
         </div> <!-- portfolio wrapper -->
         <div class="single_portfolio wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s">
-            <img loading="lazy" src="assets/images/featured-projects/3d-rendering.webp" alt="portfolio">
+            <img loading="lazy" src="assets/images/featured-projects/greenstone.webp" alt="portfolio">
             <div class="portfolio_content">
                 <ul class="meta">
-                    <li><a href="3d-rendering.php"><i class="lni lni-link"></i></a></li>
+                    <li><a href="greenstone-house.php"><i class="lni lni-link"></i></a></li>
                 </ul>
-                <h5 class="portfolio_title"><a class="white" href="3d-rendering.php">Project 3D Rendering</a></h5>
+                <h5 class="portfolio_title"><a class="white" href="greenstone-house.php">Project Greenstone House</a></h5>
             </div> <!-- Single portfolio -->
             <div class="portfolio_content_1">
                 <ul class="meta">
-                    <li><a href="3d-rendering.php"><i class="lni lni-link"></i></a></li>
+                    <li><a href="greenstone-house.php"><i class="lni lni-link"></i></a></li>
                 </ul>
-                <h5 class="portfolio_title"><a class="white" href="3d-rendering.php">Project 3D Rendering</a></h5>
+                <h5 class="portfolio_title"><a class="white" href="greenstone-house.php">Project Greenstone House</a></h5>
             </div> <!-- Single portfolio -->
         </div> <!-- portfolio wrapper -->
         <div class="single_portfolio wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s">
-            <img loading="lazy" src="assets/images/featured-projects/3d-rendering.webp" alt="portfolio">
+            <img loading="lazy" src="assets/images/featured-projects/kyalami.webp" alt="portfolio">
             <div class="portfolio_content">
                 <ul class="meta">
-                    <li><a href="3d-rendering.php"><i class="lni lni-link"></i></a></li>
+                    <li><a href="kyalami-gardens.php"><i class="lni lni-link"></i></a></li>
                 </ul>
-                <h5 class="portfolio_title"><a class="white" href="3d-rendering.php">Project 3D Rendering</a></h5>
+                <h5 class="portfolio_title"><a class="white" href="kyalami-gardens.php">Project Kyalami Gardens</a></h5>
             </div> <!-- Single portfolio -->
             <div class="portfolio_content_1">
                 <ul class="meta">
-                    <li><a href="3d-rendering.php"><i class="lni lni-link"></i></a></li>
+                    <li><a href="kyalami-gardens.php"><i class="lni lni-link"></i></a></li>
                 </ul>
-                <h5 class="portfolio_title"><a class="white" href="3d-rendering.php">Project 3D Rendering</a></h5>
+                <h5 class="portfolio_title"><a class="white" href="kyalami-gardens.php">Project Kyalami Gardens</a></h5>
             </div> <!-- Single portfolio -->
         </div> <!-- portfolio wrapper -->
         <div class="single_portfolio wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s">
-            <img loading="lazy" src="assets/images/featured-projects/3d-rendering.webp" alt="portfolio">
+            <img loading="lazy" src="assets/images/featured-projects/light-wing.webp" alt="portfolio">
             <div class="portfolio_content">
                 <ul class="meta">
-                    <li><a href="3d-rendering.php"><i class="lni lni-link"></i></a></li>
+                    <li><a href="light-wing.php"><i class="lni lni-link"></i></a></li>
                 </ul>
-                <h5 class="portfolio_title"><a class="white" href="3d-rendering.php">Project 3D Rendering</a></h5>
+                <h5 class="portfolio_title"><a class="white" href="light-wing.php">Project Light Wing</a></h5>
             </div> <!-- Single portfolio -->
             <div class="portfolio_content_1">
                 <ul class="meta">
-                    <li><a href="3d-rendering.php"><i class="lni lni-link"></i></a></li>
+                    <li><a href="light-wing.php"><i class="lni lni-link"></i></a></li>
                 </ul>
-                <h5 class="portfolio_title"><a class="white" href="3d-rendering.php">Project 3D Rendering</a></h5>
+                <h5 class="portfolio_title"><a class="white" href="light-wing.php">Project Light Wing</a></h5>
             </div> <!-- Single portfolio -->
         </div> <!-- portfolio wrapper -->
         <div class="single_portfolio wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s">
-            <img loading="lazy" src="assets/images/featured-projects/3d-rendering.webp" alt="portfolio">
+            <img loading="lazy" src="assets/images/featured-projects/little-prairie.webp" alt="portfolio">
             <div class="portfolio_content">
                 <ul class="meta">
-                    <li><a href="3d-rendering.php"><i class="lni lni-link"></i></a></li>
+                    <li><a href="little-prairie.php"><i class="lni lni-link"></i></a></li>
                 </ul>
-                <h5 class="portfolio_title"><a class="white" href="3d-rendering.php">Project 3D Rendering</a></h5>
+                <h5 class="portfolio_title"><a class="white" href="little-prairie.php">Project Little Prairie</a></h5>
             </div> <!-- Single portfolio -->
             <div class="portfolio_content_1">
                 <ul class="meta">
-                    <li><a href="3d-rendering.php"><i class="lni lni-link"></i></a></li>
+                    <li><a href="little-prairie.php"><i class="lni lni-link"></i></a></li>
                 </ul>
-                <h5 class="portfolio_title"><a class="white" href="3d-rendering.php">Project 3D Rendering</a></h5>
+                <h5 class="portfolio_title"><a class="white" href="little-prairie.php">Project Little Prairie</a></h5>
             </div> <!-- Single portfolio -->
         </div> <!-- portfolio wrapper -->
         <div class="single_portfolio wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s">
-            <img loading="lazy" src="assets/images/featured-projects/3d-rendering.webp" alt="portfolio">
+            <img loading="lazy" src="assets/images/featured-projects/blue-valley.webp" alt="portfolio">
             <div class="portfolio_content">
                 <ul class="meta">
-                    <li><a href="3d-rendering.php"><i class="lni lni-link"></i></a></li>
+                    <li><a href="blue-valley.php"><i class="lni lni-link"></i></a></li>
                 </ul>
-                <h5 class="portfolio_title"><a class="white" href="3d-rendering.php">Project 3D Rendering</a></h5>
+                <h5 class="portfolio_title"><a class="white" href="blue-valley.php">Project Blue Valley</a></h5>
             </div> <!-- Single portfolio -->
             <div class="portfolio_content_1">
                 <ul class="meta">
-                    <li><a href="3d-rendering.php"><i class="lni lni-link"></i></a></li>
+                    <li><a href="blue-valley.php"><i class="lni lni-link"></i></a></li>
                 </ul>
-                <h5 class="portfolio_title"><a class="white" href="3d-rendering.php">Project 3D Rendering</a></h5>
+                <h5 class="portfolio_title"><a class="white" href="blue-valley.php">Project Blue Valley</a></h5>
             </div> <!-- Single portfolio -->
         </div> <!-- portfolio wrapper -->
         <div class="single_portfolio wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s">
-            <img loading="lazy" src="assets/images/featured-projects/3d-rendering.webp" alt="portfolio">
+            <img loading="lazy" src="assets/images/featured-projects/sela.webp" alt="portfolio">
             <div class="portfolio_content">
                 <ul class="meta">
-                    <li><a href="3d-rendering.php"><i class="lni lni-link"></i></a></li>
+                    <li><a href="sela.php"><i class="lni lni-link"></i></a></li>
                 </ul>
-                <h5 class="portfolio_title"><a class="white" href="3d-rendering.php">Project 3D Rendering</a></h5>
+                <h5 class="portfolio_title"><a class="white" href="sela.php">Project Sela</a></h5>
             </div> <!-- Single portfolio -->
             <div class="portfolio_content_1">
                 <ul class="meta">
-                    <li><a href="3d-rendering.php"><i class="lni lni-link"></i></a></li>
+                    <li><a href="sela.php"><i class="lni lni-link"></i></a></li>
                 </ul>
-                <h5 class="portfolio_title"><a class="white" href="3d-rendering.php">Project 3D Rendering</a></h5>
+                <h5 class="portfolio_title"><a class="white" href="sela.php">Project Sela</a></h5>
             </div> <!-- Single portfolio -->
         </div> <!-- portfolio wrapper -->
         <div class="single_portfolio wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s">
-            <img loading="lazy" src="assets/images/featured-projects/3d-rendering.webp" alt="portfolio">
+            <img loading="lazy" src="assets/images/featured-projects/moodboard.webp" alt="portfolio">
             <div class="portfolio_content">
                 <ul class="meta">
-                    <li><a href="3d-rendering.php"><i class="lni lni-link"></i></a></li>
+                    <li><a href="moodboard.php"><i class="lni lni-link"></i></a></li>
                 </ul>
-                <h5 class="portfolio_title"><a class="white" href="3d-rendering.php">Project 3D Rendering</a></h5>
+                <h5 class="portfolio_title"><a class="white" href="moodboard.php">Moodboards</a></h5>
             </div> <!-- Single portfolio -->
             <div class="portfolio_content_1">
                 <ul class="meta">
-                    <li><a href="3d-rendering.php"><i class="lni lni-link"></i></a></li>
+                    <li><a href="moodboard.php"><i class="lni lni-link"></i></a></li>
                 </ul>
-                <h5 class="portfolio_title"><a class="white" href="3d-rendering.php">Project 3D Rendering</a></h5>
+                <h5 class="portfolio_title"><a class="white" href="moodboard.php">Moodboards</a></h5>
+            </div> <!-- Single portfolio -->
+        </div> <!-- portfolio wrapper -->
+        <div class="single_portfolio wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s">
+            <img loading="lazy" src="assets/images/featured-projects/malela.webp" alt="portfolio">
+            <div class="portfolio_content">
+                <ul class="meta">
+                    <li><a href="malela.php"><i class="lni lni-link"></i></a></li>
+                </ul>
+                <h5 class="portfolio_title"><a class="white" href="malela.php">Project Malela</a></h5>
+            </div> <!-- Single portfolio -->
+            <div class="portfolio_content_1">
+                <ul class="meta">
+                    <li><a href="malela.php"><i class="lni lni-link"></i></a></li>
+                </ul>
+                <h5 class="portfolio_title"><a class="white" href="malela.php">Project Malela</a></h5>
+            </div> <!-- Single portfolio -->
+        </div> <!-- portfolio wrapper -->
+        <div class="single_portfolio wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s">
+            <img loading="lazy" src="assets/images/featured-projects/moodboard.webp" alt="portfolio">
+            <div class="portfolio_content">
+                <ul class="meta">
+                    <li><a href="moodboard.php"><i class="lni lni-link"></i></a></li>
+                </ul>
+                <h5 class="portfolio_title"><a class="white" href="moodboard.php">Moodboards</a></h5>
+            </div> <!-- Single portfolio -->
+            <div class="portfolio_content_1">
+                <ul class="meta">
+                    <li><a href="moodboard.php"><i class="lni lni-link"></i></a></li>
+                </ul>
+                <h5 class="portfolio_title"><a class="white" href="moodboard.php">Moodboards</a></h5>
+            </div> <!-- Single portfolio -->
+        </div> <!-- portfolio wrapper -->
+        <div class="single_portfolio wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s">
+            <img loading="lazy" src="assets/images/featured-projects/morningside-sun.webp" alt="portfolio">
+            <div class="portfolio_content">
+                <ul class="meta">
+                    <li><a href="morningside-sun.php"><i class="lni lni-link"></i></a></li>
+                </ul>
+                <h5 class="portfolio_title"><a class="white" href="morningside-sun.php">Project Morningside Sun</a></h5>
+            </div> <!-- Single portfolio -->
+            <div class="portfolio_content_1">
+                <ul class="meta">
+                    <li><a href="morningside-sun.php"><i class="lni lni-link"></i></a></li>
+                </ul>
+                <h5 class="portfolio_title"><a class="white" href="morningside-sun.php">Project Morningside Sun</a></h5>
             </div> <!-- Single portfolio -->
         </div> <!-- portfolio wrapper -->
     </div> <!-- row -->
