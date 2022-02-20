@@ -16,7 +16,7 @@
                 <div class="footer_wrapper text-left d-lg-flex align-items-left justify-content-left">
                     <ul>
                         <li><span class="white pb-10"><i class="lni lni-phone"></i> &nbsp;<a class="a-link" href="https://wa.link/mxq1ew">+27 72 840 5787</a></span></li>
-                        <li><span class="white pb-10"><i class="lni lni-bubble"></i> &nbsp;<a class="a-link" href="mailto:ange@inmotioninteriors.co.za">ange@inmotioninteriors.co.za</a></span></li>
+                        <li><span class="white pb-10"><i class="lni lni-bubble"></i> &nbsp;<a class="a-link" href="mailto:info@inmotioninteriors.co.za">info@inmotioninteriors.co.za</a></span></li>
                     </ul>
 
 
