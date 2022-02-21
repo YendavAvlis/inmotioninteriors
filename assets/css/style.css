@@ -771,7 +771,7 @@ p {
 .single_features i {
   font-size: 60px;
   line-height: 60px;
-  color: #4d3d38;
+  color: #4c564e;
   transition: all 0.3s ease-out 0s;
 }
 
@@ -783,7 +783,7 @@ p {
 }
 
 .single_features .features_title {
-  color: #4d3d38;
+  color: #4c564e;
   margin-top: 15px;
   font-size: 24px;
   font-weight: 600;
@@ -1472,7 +1472,7 @@ p.form-message.error.form-message.error {
     11.FOOTER css 
 ===========================*/
 .footer_area {
-  background-color: #4d3d38;
+  background-color: #4c564e;
   padding-top: 15px;
   padding-bottom: 30px;
 }
@@ -1555,7 +1555,7 @@ p.form-message.error.form-message.error {
   height: 40px;
   line-height: 40px;
   border-radius: 5px;
-  background-color: #5c4e4a;
+  background-color: #4c564e;
   text-align: center;
   z-index: 99;
   transition: all 0.3s ease-out 0s;
