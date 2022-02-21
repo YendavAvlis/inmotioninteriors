@@ -173,36 +173,7 @@ include('assets/includes/header.php')
                 <h5 class="portfolio_title"><a class="white" href="kyalami-gardens.php">Project Kyalami Gardens</a></h5>
             </div> <!-- Single portfolio -->
         </div> <!-- portfolio wrapper -->
-        <div class="single_portfolio wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s">
-            <img loading="lazy" src="assets/images/featured-projects/light-wing.webp" alt="portfolio">
-            <div class="portfolio_content">
-                <ul class="meta">
-                    <li><a href="light-wing.php"><i class="lni lni-link"></i></a></li>
-                </ul>
-                <h5 class="portfolio_title"><a class="white" href="light-wing.php">Project Light Wing</a></h5>
-            </div> <!-- Single portfolio -->
-            <div class="portfolio_content_1">
-                <ul class="meta">
-                    <li><a href="light-wing.php"><i class="lni lni-link"></i></a></li>
-                </ul>
-                <h5 class="portfolio_title"><a class="white" href="light-wing.php">Project Light Wing</a></h5>
-            </div> <!-- Single portfolio -->
-        </div> <!-- portfolio wrapper -->
-        <div class="single_portfolio wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s">
-            <img loading="lazy" src="assets/images/featured-projects/little-prairie.webp" alt="portfolio">
-            <div class="portfolio_content">
-                <ul class="meta">
-                    <li><a href="little-prairie.php"><i class="lni lni-link"></i></a></li>
-                </ul>
-                <h5 class="portfolio_title"><a class="white" href="little-prairie.php">Project Little Prairie</a></h5>
-            </div> <!-- Single portfolio -->
-            <div class="portfolio_content_1">
-                <ul class="meta">
-                    <li><a href="little-prairie.php"><i class="lni lni-link"></i></a></li>
-                </ul>
-                <h5 class="portfolio_title"><a class="white" href="little-prairie.php">Project Little Prairie</a></h5>
-            </div> <!-- Single portfolio -->
-        </div> <!-- portfolio wrapper -->
+
         <div class="single_portfolio wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s">
             <img loading="lazy" src="assets/images/featured-projects/blue-valley.webp" alt="portfolio">
             <div class="portfolio_content">
@@ -248,51 +219,9 @@ include('assets/includes/header.php')
                 <h5 class="portfolio_title"><a class="white" href="moodboard.php">Moodboards</a></h5>
             </div> <!-- Single portfolio -->
         </div> <!-- portfolio wrapper -->
-        <div class="single_portfolio wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s">
-            <img loading="lazy" src="assets/images/featured-projects/malela.webp" alt="portfolio">
-            <div class="portfolio_content">
-                <ul class="meta">
-                    <li><a href="malela.php"><i class="lni lni-link"></i></a></li>
-                </ul>
-                <h5 class="portfolio_title"><a class="white" href="malela.php">Project Malela</a></h5>
-            </div> <!-- Single portfolio -->
-            <div class="portfolio_content_1">
-                <ul class="meta">
-                    <li><a href="malela.php"><i class="lni lni-link"></i></a></li>
-                </ul>
-                <h5 class="portfolio_title"><a class="white" href="malela.php">Project Malela</a></h5>
-            </div> <!-- Single portfolio -->
-        </div> <!-- portfolio wrapper -->
-        <div class="single_portfolio wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s">
-            <img loading="lazy" src="assets/images/turquoise-1.webp" alt="portfolio">
-            <div class="portfolio_content">
-                <ul class="meta">
-                    <li><a href="house-turquoise.php"><i class="lni lni-link"></i></a></li>
-                </ul>
-                <h5 class="portfolio_title"><a class="white" href="house-turquoise.php">Project House Turquoise</a></h5>
-            </div> <!-- Single portfolio -->
-            <div class="portfolio_content_1">
-                <ul class="meta">
-                    <li><a href="house-turquoise.php"><i class="lni lni-link"></i></a></li>
-                </ul>
-                <h5 class="portfolio_title"><a class="white" href="house-turquoise.php">Project House Turquoise</a></h5>
-            </div> <!-- Single portfolio -->
-        </div> <!-- portfolio wrapper -->
-        <div class="single_portfolio wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s">
-            <img loading="lazy" src="assets/images/featured-projects/morningside-sun.webp" alt="portfolio">
-            <div class="portfolio_content">
-                <ul class="meta">
-                    <li><a href="morningside-sun.php"><i class="lni lni-link"></i></a></li>
-                </ul>
-                <h5 class="portfolio_title"><a class="white" href="morningside-sun.php">Project Morningside Sun</a></h5>
-            </div> <!-- Single portfolio -->
-            <div class="portfolio_content_1">
-                <ul class="meta">
-                    <li><a href="morningside-sun.php"><i class="lni lni-link"></i></a></li>
-                </ul>
-                <h5 class="portfolio_title"><a class="white" href="morningside-sun.php">Project Morningside Sun</a></h5>
-            </div> <!-- Single portfolio -->
-        </div> <!-- portfolio wrapper -->
+
+
+
     </div> <!-- row -->
 </section>
 
