@@ -175,21 +175,6 @@ include('assets/includes/header.php')
         </div> <!-- portfolio wrapper -->
 
         <div class="single_portfolio wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s">
-            <img loading="lazy" src="assets/images/featured-projects/blue-valley.webp" alt="portfolio">
-            <div class="portfolio_content">
-                <ul class="meta">
-                    <li><a href="blue-valley.php"><i class="lni lni-link"></i></a></li>
-                </ul>
-                <h5 class="portfolio_title"><a class="white" href="blue-valley.php">Project Blue Valley</a></h5>
-            </div> <!-- Single portfolio -->
-            <div class="portfolio_content_1">
-                <ul class="meta">
-                    <li><a href="blue-valley.php"><i class="lni lni-link"></i></a></li>
-                </ul>
-                <h5 class="portfolio_title"><a class="white" href="blue-valley.php">Project Blue Valley</a></h5>
-            </div> <!-- Single portfolio -->
-        </div> <!-- portfolio wrapper -->
-        <div class="single_portfolio wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s">
             <img loading="lazy" src="assets/images/featured-projects/sela.webp" alt="portfolio">
             <div class="portfolio_content">
                 <ul class="meta">
